@@ -1,3 +1,4 @@
+/*Постая программа на языке С*/
 #include <stdio.h>
 #include <string.h>
 
